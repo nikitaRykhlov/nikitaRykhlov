@@ -32,38 +32,33 @@ I excel at working in teams, quickly adapt to new environments, and master techn
 
 **Dec 2023 - May 2025 (1 year 6 months)**
 
-#### **Situation**  
-The company aimed to enhance its B2B direction by addressing technical debt in the monolithic architecture and building scalable solutions for corporate clients. The existing system lacked flexibility, making it challenging to adapt to evolving business needs. Additionally, the team faced challenges in maintaining high service quality while scaling operations.
+#### **Key Achievements**
+- Reduced deployment times by **34.5%** by extracting B2B logic into microservices using Golang, PostgreSQL, and Kafka.
+- Increased B2B sales volume by **427%** within six months by launching a scalable wholesale orders platform with Redis and S3.
+- Improved client retention by **21.8%** through a loyalty program with tiered rewards and personalized offers.
+- Decreased bug rates by **20.4%** by decoupling B2C/B2B workflows, enhancing system modularity.
+- Maintained **99.9% uptime** via Kubernetes orchestration and proactive monitoring.
 
-#### **Task**  
-As a Senior Backend Developer, my primary responsibilities included:  
-- Extracting B2B logic from the monolith to improve system flexibility and scalability.  
-- Designing and developing a platform for wholesale orders and implementing a loyalty program for corporate clients.  
-- Separating B2C and B2B scenarios to streamline business processes.  
-- Supporting the team through technical interviews, on-call duties, and ensuring high service reliability.
+#### **Responsibilities**
+- Extracted B2B logic from monolith to microservices, applying Domain-Driven Design (DDD) principles for scalability.
+- Designed and built a wholesale orders platform, integrating Redis for caching and S3 for storage.
+- Developed a loyalty program with gRPC for inter-service communication and high availability.
+- Led efforts to separate B2C/B2B scenarios, streamlining business processes.
+- Conducted technical interviews, onboarded 5 specialists, and ensured SLAs through on-call support.
 
-#### **Action**  
-- **Monolith Extraction:** Collaborated with cross-functional teams to identify and extract B2B-specific logic from the monolith, leveraging microservices architecture and domain-driven design (DDD). Implemented services using Golang, PostgreSQL, and Kafka for event-driven communication.  
-- **Wholesale Orders Platform:** Designed and developed a scalable platform for wholesale orders, integrating with Redis for caching and S3 for storage. Actively participated in gathering business requirements to ensure alignment with client needs.  
-- **Loyalty Program:** Developed a loyalty program for corporate clients, incorporating features like tiered rewards and personalized offers. Used gRPC for inter-service communication and ensured high availability with Kubernetes orchestration.  
-- **Scenario Separation:** Led efforts to decouple B2C and B2B scenarios, enhancing system modularity and reducing interdependencies.  
-- **Team Support:** Conducted technical interviews focusing on system design and scalability, helping onboard qualified specialists. Performed on-call duties, resolving incidents promptly and maintaining SLAs. Ensured high service scoring through rigorous monitoring and proactive issue resolution.
+#### **Technical Contributions**
+- Implemented event-driven architectures using Kafka for real-time communication.
+- Utilized Kubernetes for container orchestration and fault tolerance.
+- Applied Test-Driven Development (TDD) practices to ensure code quality.
+- Managed CI/CD pipelines with GitLab and tracked tasks in Jira.
 
-#### **Result**  
-- Successfully extracted B2B logic, improving system flexibility and scalability, which reduced deployment times by 34.5%.  
-- Launched the wholesale orders platform, increasing sales volume by 400% within the first six months.  
-- Enhanced corporate client engagement through the loyalty program, resulting in a 21.8% increase in repeat orders.  
-- Achieved seamless separation of B2C/B2B scenarios, enabling faster feature rollouts and reducing bug rates by 20%.  
-- Maintained a 99.9% service uptime and received positive feedback from stakeholders for technical leadership and team contributions.
-- Successfully hired and onboarded 5 highly qualified specialists to strengthen the B2B domain, ensuring the successful execution of strategic initiatives.
+#### **Key Learnings**
+- Mastered distributed systems and DDD principles for complex domains.
+- Enhanced communication skills to align technical solutions with business needs.
+- Balanced short-term goals with long-term architectural improvements.
+- Refined hiring practices to build cohesive, high-performing teams.
 
-#### **Learned**  
-- Gained deeper expertise in designing distributed systems and applying DDD principles to complex business domains.  
-- Recognized the importance of clear communication between technical and non-technical stakeholders during requirement gathering.  
-- Learned how to balance short-term goals with long-term architectural improvements to drive sustainable growth.  
-- Developed insights into effective hiring practices, identifying key skills and cultural fit to build a cohesive and high-performing team.
-
-**Team size:** 5 people
+**Team Size:** 5 people  
 
 *Microservices, PostgreSQL, Kubernetes, S3, Redis, Kafka, Scalability, Software Architecture, gRPC, Domain-Driven Design(DDD), Golang, High Availability, Distributed Systems, Test-Driven Development, GitLab, Jira*
 
@@ -73,82 +68,71 @@ As a Senior Backend Developer, my primary responsibilities included:
 
 **Nov 2022 - Dec 2023 (1 year 2 months)**
 
-#### **Situation**  
-The organization faced challenges in automating document management processes, which were time-consuming and error-prone. Existing solutions lacked scalability, flexibility, and reliability, hindering the team's ability to meet growing business demands. Additionally, insufficient test coverage led to frequent errors, negatively impacting system stability.
+#### **Key Achievements**  
+- Reduced document generation time by **25.5%**, improving operational efficiency.  
+- Achieved **97% test coverage**, reducing runtime errors and enhancing stability.  
+- Enabled seamless scalability to handle growing workloads with high availability.  
+- Delivered an intuitive Angular-based UI, praised for responsiveness and usability.  
+- Automated document management processes, addressing critical business needs.  
 
-#### **Task**  
-As a Full Stack Developer, my primary responsibilities included:  
-- Designing, developing, and implementing a document and text templating platform to streamline document generation and management.  
-- Optimizing the document generation process to reduce processing time and improve efficiency.  
-- Ensuring high code quality by implementing testing strategies and achieving near-complete test coverage.  
-- Creating an intuitive user interface (UI) and ensuring seamless integration with the backend for smooth user interaction.  
-- Collaborating with a cross-functional team of six developers to deliver a scalable, reliable, and high-performing solution.
+#### **Responsibilities**  
+- Designed and built a document templating platform using Golang, Angular, and microservices architecture.  
+- Optimized workflows by identifying bottlenecks and implementing performance improvements.  
+- Ensured code quality through TDD, covering unit, integration, and end-to-end tests.  
+- Developed a user-friendly UI/UX with smooth backend integration for optimal interactions.  
+- Collaborated with a six-person team to deliver scalable, reliable solutions.  
+- Mentored junior developers, conducted code reviews, and promoted best practices.  
 
-#### **Action**  
-- **Platform Development:** Designed and developed a document and text templating platform using Golang for the backend, Angular for the frontend, and a microservices architecture. Integrated Redis for caching and S3 for storage to ensure high availability and scalability.  
-- **Process Optimization:** Analyzed the existing document generation workflow, identified bottlenecks, and implemented optimizations.  
-- **Testing Strategy:** Adopted Test-Driven Development (TDD) practices to cover the platform with unit, integration, and end-to-end tests.  
-- **UI/UX Development:** Developed an intuitive and user-friendly interface using Angular. Ensured the frontend provided fast interactions with the backend and supported all necessary document management features.  
-- **Scalability and Reliability:** Leveraged Kubernetes for container orchestration to ensure high availability and scalability. Designed the system to handle increasing loads while maintaining performance and reliability.  
-- **Team Collaboration:** Actively participated in technical discussions, code reviews, and pair programming sessions to ensure adherence to best practices. Mentored junior developers through knowledge-sharing and guidance.  
+#### **Technical Contributions**  
+- Implemented Kubernetes for container orchestration, ensuring fault tolerance and scalability.  
+- Integrated Redis for caching and S3 for storage, boosting system performance.  
+- Applied TDD principles to minimize technical debt and ensure maintainability.  
+- Used GitLab for CI/CD pipelines, streamlining development and deployment.  
 
-#### **Result**  
-- Successfully designed and implemented a document and text templating platform, which became a key tool for automating document management processes.  
-- Reduced document generation processing time by 25.5%, enhancing operational efficiency.  
-- Achieved 97.% code coverage, leading to improved code quality and a significant reduction in runtime errors.  
-- Ensured high availability and scalability of the platform, enabling it to handle increasing workloads seamlessly.  
-- Created an intuitive and responsive user interface that received positive feedback from end users.  
-- Received positive feedback from stakeholders for delivering a reliable and efficient solution that addressed critical business needs.  
-
-#### **Learned**  
-- Gained hands-on experience designing and implementing scalable microservices-based systems using Golang, Kubernetes, and distributed system principles.  
-- Learned how to effectively combine backend and frontend development to create cohesive solutions that meet user needs.  
-- Recognized the importance of Test-Driven Development (TDD) in ensuring code quality and minimizing technical debt.  
-- Learned how to collaborate effectively with cross-functional teams to deliver complex projects on time and within scope.  
-- Developed insights into optimizing workflows and leveraging caching mechanisms (e.g., Redis) to improve system performance.  
+#### **Key Learnings**  
+- Mastered scalable microservices design using Golang, Kubernetes, and distributed systems.  
+- Improved full-stack development skills to create cohesive, user-focused solutions.  
+- Recognized the value of TDD in maintaining code quality and reducing errors.  
+- Enhanced collaboration skills within cross-functional teams for timely project delivery.  
+- Gained expertise in workflow optimization and leveraging caching mechanisms like Redis.  
 
 **Team size:** 6 people  
 
 *Golang, Kubernetes, Angular, Distributed Systems, High Availability, Scalability, Microservices, S3, Redis, Test-Driven Development, GitLab*
+
 ### <ins>[Rainbowsoft](https://rainbowsoft.ru/)</ins>
 
 **Middle Full Stack Developer**
 
 **Oct 2020 - Nov 2022 (2 years 2 months)**
 
-<ins>[Educational Robotics Project](https://robointellect.ru/)</ins>
+#### **Key Achievements**  
+- Developed an SDK for microcomponent management, enabling seamless integration into robotics projects.  
+- Built a remote control system using Golang, WebSockets, and React.js, improving device management efficiency.  
+- Simplified deployment with Docker, reducing maintenance complexity.  
+- Contributed to the <ins>[SPECTR Traffic Rules](https://spectr-pdd.ru/)</ins> system, enhancing its usability for teaching traffic rules.  
+- Optimized <ins>[RepkaPi](https://repka-pi.ru/)</ins> setup by testing OS options and selecting optimal software.  
 
-#### **Situation**  
-The company was developing educational solutions for teaching children and students the basics of robotics, programming, and electronics. The main goal was to create tools for managing microcomponents and remotely controlling devices. The project required high reliability, ease of use, and support for modern development practices.
+#### **Responsibilities**  
+- Designed and implemented an SDK for microcomponents using Golang and gRPC.  
+- Developed server-side RC system with Golang, WebSockets, and Docker for scalability.  
+- Built client-side RC interface with React.js, ensuring intuitive user interactions.  
+- Tested operating systems and configured software for RepkaPi single-board computer.  
+- Contributed to SPECTR Traffic Rules system, handling database design and logic with PHP and MySQL.  
 
-#### **Task**  
-As a Middle Full Stack Developer, my primary responsibilities included:  
-- Developing an SDK for managing microcomponents used within the project.  
-- Creating the server-side part of the remote control (RC) system for the project's components.  
-- Participating in the development of the client-side part of the remote control (RC) system.  
-- Preparing the <ins>[RepkaPi](https://repka-pi.ru/)</ins> single-board computer, including testing operating systems and selecting standard software.  
-- Contributing to the development of the <ins>[SPECTR Traffic Rules](https://spectr-pdd.ru/)</ins> automated learning system.  
+#### **Technical Contributions**  
+- Integrated gRPC for efficient communication between components.  
+- Used Docker to streamline deployment and scaling processes.  
+- Applied WebSockets for real-time device control in RC system.  
+- Utilized Jenkins for CI/CD pipelines, ensuring smooth workflows.  
+- Modeled architecture with UML and BPMN for clarity and alignment.  
 
-#### **Action**  
-- **SDK Development:** Developed an SDK for managing microcomponents using Golang and cgo. Integrated gRPC for efficient communication between components.  
-- **Server-Side RC:** Implemented the server-side part of the remote control system using Golang, WebSockets, and Docker for containerization.  
-- **Client-Side RC:** Participated in developing the client-side part of the remote control system using React.js. Ensured a user-friendly interface for interacting with devices.  
-- **RepkaPi Preparation:** Participated in testing operating systems and selecting standard software for the RepkaPi single-board computer.  
-- **Automated Learning System:** Contributed to the development of the <ins>[SPECTR Traffic Rules](https://spectr-pdd.ru/)</ins> system, using PHP and MySQL for database creation and application logic.  
-- **Modern Approaches:** Implemented containerization (Docker) to simplify project deployment and maintenance.  
-
-#### **Result**  
-- Successfully developed an SDK for managing microcomponents, which is actively used in the project.  
-- Implemented the server-side and client-side parts of the remote control (RC) system, enabling users to efficiently manage devices.  
-- Prepared the RepkaPi single-board computer by selecting optimal software for its operation.  
-- Contributed to the development of the <ins>[SPECTR Traffic Rules](https://spectr-pdd.ru/)</ins> system, which is successfully used for teaching traffic rules.  
-- Simplified project deployment and maintenance by implementing containerization (Docker).  
-
-#### **Learned**  
-- Gained experience working with microcomponents and integrating them into educational projects.  
-- Learned how to effectively use containerization (Docker) to simplify project deployment and maintenance.  
-- Mastered new technologies such as gRPC, WebSockets, and cgo for creating high-performance solutions.  
-- Gained insights into the importance of thorough testing and software selection for hardware solutions.  
+#### **Key Learnings**  
+- Mastered microcomponent integration and hardware-software interaction.  
+- Gained expertise in Docker for simplifying deployment and scaling.  
+- Learned gRPC, WebSockets, and cgo for high-performance solutions.  
+- Improved full-stack skills, combining Golang, PHP, and React.js effectively.  
+- Recognized the value of thorough testing and software selection for hardware projects. 
 
 **Team size:** 8 people  
 
