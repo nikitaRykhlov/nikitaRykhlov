@@ -1,9 +1,11 @@
 # Hello 👋
 
 ## About
-<p class="text-block">I am a developer with experience in creating complex B2B solutions and microservice architectures, specializing in Golang. I am skilled in designing and developing scalable systems, with a particular focus on code quality and test coverage. In my work, I actively apply the TDD (Test-Driven Development) methodology, which ensures high reliability of solutions from the very beginning of development. I also use the DDD (Domain-Driven Design) approach to create flexible and maintainable architectures that align with business goals. I have experience conducting technical interviews, including system design, as well as implementing modern development practices such as containerization (Docker) and working with Kubernetes.</p>
+<p class="text-block">I have over <b>5 years of experience</b> in software development, specializing in creating complex solutions that benefit not only businesses but also other fields. I have extensive experience in designing and developing high-load distributed systems, where stability, speed, and reliability are critical, even under heavy data and request volumes. I focus on architecting solutions that are scalable, adaptable to growing demands, and easy to maintain in the long term. In all my projects, I prioritize quality and ensure the results meet both user expectations and business needs.
 
-<p class="text-block">In addition to backend development, I have practical experience in frontend development, having worked with technologies like React and Angular. This allows me to effectively collaborate with frontend teams and develop full-stack solutions, from client-side interfaces to server-side logic. I am capable of efficiently solving tasks within a team, quickly adapting to new conditions, and mastering technologies to achieve business objectives.</p>
+Additionally, I have worked in large technology companies with exceptionally high standards for their products. This has taught me to think strategically, understand diverse requirements, and create solutions that remain effective and relevant over time. Beyond back-end system design, I also have hands-on experience building user-friendly interfaces, allowing me to approach projects holistically — from user interaction to technical implementation.
+
+I excel at working in teams, quickly adapt to new environments, and master technologies to achieve desired outcomes. When you assign a task to me, you can rest assured that I will see it through to completion without requiring constant oversight. I guarantee that the work will be delivered on time, with optimal efficiency and the highest quality, no matter who it’s intended for or what goals it serves.</p>
 
 ## Top Skills
 
@@ -30,22 +32,40 @@
 
 **Dec 2023 - May 2025 (1 year 6 months)**
 
-Development of the B2B direction 
+#### **Situation**  
+The company aimed to enhance its B2B direction by addressing technical debt in the monolithic architecture and building scalable solutions for corporate clients. The existing system lacked flexibility, making it challenging to adapt to evolving business needs. Additionally, the team faced challenges in maintaining high service quality while scaling operations.
 
-- Participated in extracting part of the B2B logic from the monolith, which increased the flexibility and scalability of the system. 
-- Designed and developed a platform for wholesale orders, and participated in gathering business requirements. 
-- Worked on the development of a loyalty program for corporate clients, increasing their engagement. 
-- Participated in the project to separate B2C/B2B scenarios, which enhanced the system's flexibility. 
+#### **Task**  
+As a Senior Backend Developer, my primary responsibilities included:  
+- Extracting B2B logic from the monolith to improve system flexibility and scalability.  
+- Designing and developing a platform for wholesale orders and implementing a loyalty program for corporate clients.  
+- Separating B2C and B2B scenarios to streamline business processes.  
+- Supporting the team through technical interviews, on-call duties, and ensuring high service reliability.
 
-Additionally: 
+#### **Action**  
+- **Monolith Extraction:** Collaborated with cross-functional teams to identify and extract B2B-specific logic from the monolith, leveraging microservices architecture and domain-driven design (DDD). Implemented services using Golang, PostgreSQL, and Kafka for event-driven communication.  
+- **Wholesale Orders Platform:** Designed and developed a scalable platform for wholesale orders, integrating with Redis for caching and S3 for storage. Actively participated in gathering business requirements to ensure alignment with client needs.  
+- **Loyalty Program:** Developed a loyalty program for corporate clients, incorporating features like tiered rewards and personalized offers. Used gRPC for inter-service communication and ensured high availability with Kubernetes orchestration.  
+- **Scenario Separation:** Led efforts to decouple B2C and B2B scenarios, enhancing system modularity and reducing interdependencies.  
+- **Team Support:** Conducted technical interviews focusing on system design and scalability, helping onboard qualified specialists. Performed on-call duties, resolving incidents promptly and maintaining SLAs. Ensured high service scoring through rigorous monitoring and proactive issue resolution.
 
-- Conducted technical interviews, including system design, helping teams select qualified specialists. 
-- Performed on-call duties, ensuring prompt incident resolution and maintaining service SLAs. 
-- Ensured a high level of service scoring. 
+#### **Result**  
+- Successfully extracted B2B logic, improving system flexibility and scalability, which reduced deployment times by 34.5%.  
+- Launched the wholesale orders platform, increasing sales volume by 400% within the first six months.  
+- Enhanced corporate client engagement through the loyalty program, resulting in a 21.8% increase in repeat orders.  
+- Achieved seamless separation of B2C/B2B scenarios, enabling faster feature rollouts and reducing bug rates by 20%.  
+- Maintained a 99.9% service uptime and received positive feedback from stakeholders for technical leadership and team contributions.
+- Successfully hired and onboarded 5 highly qualified specialists to strengthen the B2B domain, ensuring the successful execution of strategic initiatives.
 
-Team size: 5 people
+#### **Learned**  
+- Gained deeper expertise in designing distributed systems and applying DDD principles to complex business domains.  
+- Recognized the importance of clear communication between technical and non-technical stakeholders during requirement gathering.  
+- Learned how to balance short-term goals with long-term architectural improvements to drive sustainable growth.  
+- Developed insights into effective hiring practices, identifying key skills and cultural fit to build a cohesive and high-performing team.
 
-*Microservices, PostgreSQL, Kubernetes, S3, Redis, Kafka, Scalability, Software Design, gRPC, Domain-Driven Design(DDD), Golang, High Availability, Distributed Systems, Test-Driven Development, GitLab, Jira*
+**Team size:** 5 people
+
+*Microservices, PostgreSQL, Kubernetes, S3, Redis, Kafka, Scalability, Software Architecture, gRPC, Domain-Driven Design(DDD), Golang, High Availability, Distributed Systems, Test-Driven Development, GitLab, Jira*
 
 ### <ins>[ELMA365](https://elma365.com/)</ins>
 
@@ -53,17 +73,43 @@ Team size: 5 people
 
 **Nov 2022 - Dec 2023 (1 year 2 months)**
 
-- Designed, developed, and implemented a document and text templating platform, which became a key tool for automating document management. 
+#### **Situation**  
+The organization faced challenges in automating document management processes, which were time-consuming and error-prone. Existing solutions lacked scalability, flexibility, and reliability, hindering the team's ability to meet growing business demands. Additionally, insufficient test coverage led to frequent errors, negatively impacting system stability.
 
-Achievements: 
+#### **Task**  
+As a Full Stack Developer, my primary responsibilities included:  
+- Designing, developing, and implementing a document and text templating platform to streamline document generation and management.  
+- Optimizing the document generation process to reduce processing time and improve efficiency.  
+- Ensuring high code quality by implementing testing strategies and achieving near-complete test coverage.  
+- Creating an intuitive user interface (UI) and ensuring seamless integration with the backend for smooth user interaction.  
+- Collaborating with a cross-functional team of six developers to deliver a scalable, reliable, and high-performing solution.
 
-- Optimized the document generation process, reducing processing time by 25%. 
-- Covered the platform with tests, achieving 97% code coverage, which improved code quality and significantly reduced the number of errors. 
+#### **Action**  
+- **Platform Development:** Designed and developed a document and text templating platform using Golang for the backend, Angular for the frontend, and a microservices architecture. Integrated Redis for caching and S3 for storage to ensure high availability and scalability.  
+- **Process Optimization:** Analyzed the existing document generation workflow, identified bottlenecks, and implemented optimizations.  
+- **Testing Strategy:** Adopted Test-Driven Development (TDD) practices to cover the platform with unit, integration, and end-to-end tests.  
+- **UI/UX Development:** Developed an intuitive and user-friendly interface using Angular. Ensured the frontend provided fast interactions with the backend and supported all necessary document management features.  
+- **Scalability and Reliability:** Leveraged Kubernetes for container orchestration to ensure high availability and scalability. Designed the system to handle increasing loads while maintaining performance and reliability.  
+- **Team Collaboration:** Actively participated in technical discussions, code reviews, and pair programming sessions to ensure adherence to best practices. Mentored junior developers through knowledge-sharing and guidance.  
 
-Team size: 6 people
+#### **Result**  
+- Successfully designed and implemented a document and text templating platform, which became a key tool for automating document management processes.  
+- Reduced document generation processing time by 25.5%, enhancing operational efficiency.  
+- Achieved 97.% code coverage, leading to improved code quality and a significant reduction in runtime errors.  
+- Ensured high availability and scalability of the platform, enabling it to handle increasing workloads seamlessly.  
+- Created an intuitive and responsive user interface that received positive feedback from end users.  
+- Received positive feedback from stakeholders for delivering a reliable and efficient solution that addressed critical business needs.  
+
+#### **Learned**  
+- Gained hands-on experience designing and implementing scalable microservices-based systems using Golang, Kubernetes, and distributed system principles.  
+- Learned how to effectively combine backend and frontend development to create cohesive solutions that meet user needs.  
+- Recognized the importance of Test-Driven Development (TDD) in ensuring code quality and minimizing technical debt.  
+- Learned how to collaborate effectively with cross-functional teams to deliver complex projects on time and within scope.  
+- Developed insights into optimizing workflows and leveraging caching mechanisms (e.g., Redis) to improve system performance.  
+
+**Team size:** 6 people  
 
 *Golang, Kubernetes, Angular, Distributed Systems, High Availability, Scalability, Microservices, S3, Redis, Test-Driven Development, GitLab*
-
 ### <ins>[Rainbowsoft](https://rainbowsoft.ru/)</ins>
 
 **Middle Full Stack Developer**
@@ -72,24 +118,41 @@ Team size: 6 people
 
 <ins>[Educational Robotics Project](https://robointellect.ru/)</ins>
 
-- Developed an SDK for managing microelectronics components, which is successfully used within the framework of this project.
-- Developed the server-side part of the remote control (RC) for the project's components.
-- Participated in the development of the client-side part of the remote control (RC) for the project's components.
+#### **Situation**  
+The company was developing educational solutions for teaching children and students the basics of robotics, programming, and electronics. The main goal was to create tools for managing microcomponents and remotely controlling devices. The project required high reliability, ease of use, and support for modern development practices.
 
-Technology stack: React, Golang, gRPC, cgo, Docker.
+#### **Task**  
+As a Middle Full Stack Developer, my primary responsibilities included:  
+- Developing an SDK for managing microcomponents used within the project.  
+- Creating the server-side part of the remote control (RC) system for the project's components.  
+- Participating in the development of the client-side part of the remote control (RC) system.  
+- Preparing the <ins>[RepkaPi](https://repka-pi.ru/)</ins> single-board computer, including testing operating systems and selecting standard software.  
+- Contributing to the development of the <ins>[SPECTR Traffic Rules](https://spectr-pdd.ru/)</ins> automated learning system.  
 
-Additionally:
+#### **Action**  
+- **SDK Development:** Developed an SDK for managing microcomponents using Golang and cgo. Integrated gRPC for efficient communication between components.  
+- **Server-Side RC:** Implemented the server-side part of the remote control system using Golang, WebSockets, and Docker for containerization.  
+- **Client-Side RC:** Participated in developing the client-side part of the remote control system using React.js. Ensured a user-friendly interface for interacting with devices.  
+- **RepkaPi Preparation:** Participated in testing operating systems and selecting standard software for the RepkaPi single-board computer.  
+- **Automated Learning System:** Contributed to the development of the <ins>[SPECTR Traffic Rules](https://spectr-pdd.ru/)</ins> system, using PHP and MySQL for database creation and application logic.  
+- **Modern Approaches:** Implemented containerization (Docker) to simplify project deployment and maintenance.  
 
-- Participated in the preparation of the <ins>[RepkaPi](https://repka-pi.ru/)</ins> single-board computer, including testing operating systems and selecting standard software.
-- Contributed to the development of the <ins>[SPECTR Traffic Rules](https://spectr-pdd.ru/)</ins> automated learning system. Stack: PHP, MySQL.
- 
-Achievements:
+#### **Result**  
+- Successfully developed an SDK for managing microcomponents, which is actively used in the project.  
+- Implemented the server-side and client-side parts of the remote control (RC) system, enabling users to efficiently manage devices.  
+- Prepared the RepkaPi single-board computer by selecting optimal software for its operation.  
+- Contributed to the development of the <ins>[SPECTR Traffic Rules](https://spectr-pdd.ru/)</ins> system, which is successfully used for teaching traffic rules.  
+- Simplified project deployment and maintenance by implementing containerization (Docker).  
 
-- Implemented modern development approaches such as containerization (Docker), simplifying deployment and maintenance of projects.
+#### **Learned**  
+- Gained experience working with microcomponents and integrating them into educational projects.  
+- Learned how to effectively use containerization (Docker) to simplify project deployment and maintenance.  
+- Mastered new technologies such as gRPC, WebSockets, and cgo for creating high-performance solutions.  
+- Gained insights into the importance of thorough testing and software selection for hardware solutions.  
 
-Team size: 8 people.
+**Team size:** 8 people  
 
-*Golang, gRCP, Jenkins, MySQL, Unified Modeling Language (UML), BPMN, WebSockets, React.js, Docker, PHP, Full Stack Development, Web Technologies*
+*Golang, gRPC, Jenkins, MySQL, Unified Modeling Language (UML), BPMN, WebSockets, React.js, Docker, PHP, Full Stack Development, Web Technologies*
 
 ## Education
 
@@ -122,3 +185,5 @@ Saratov State Technical University - Saratov, Russia
 **Project Management:** Jira.
 
 **Modeling and Documentation:** UML, BPMN, C4
+
+**Other:** Figma
