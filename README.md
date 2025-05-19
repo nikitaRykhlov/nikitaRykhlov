@@ -1,11 +1,13 @@
 # Hello 👋
 
 ## About
-<p class="text-block">I have over <b>5 years of experience</b> in software development, specializing in creating complex solutions that benefit not only businesses but also other fields. I have extensive experience in designing and developing high-load distributed systems, where stability, speed, and reliability are critical, even under heavy data and request volumes. I focus on architecting solutions that are scalable, adaptable to growing demands, and easy to maintain in the long term. In all my projects, I prioritize quality and ensure the results meet both user expectations and business needs.
+<p class="text-block">I have over 5 years of experience in software development, focusing on building robust and scalable solutions that drive value across various industries. My expertise lies in designing and maintaining high-load distributed systems, where performance, reliability, and fault tolerance are essential under intense workloads. I emphasize creating architectures that are not only scalable and flexible but also easy to support and evolve over time. I always strive to deliver high-quality results that align with both user expectations and business goals.
 
-Additionally, I have worked in large technology companies with exceptionally high standards for their products. This has taught me to think strategically, understand diverse requirements, and create solutions that remain effective and relevant over time. Beyond back-end system design, I also have hands-on experience building user-friendly interfaces, allowing me to approach projects holistically — from user interaction to technical implementation.
+Throughout my career, I’ve worked in large technology companies known for their rigorous standards, which helped me develop a strategic mindset and the ability to craft long-lasting, efficient solutions. In addition to back-end development, I have hands-on experience in front-end technologies, allowing me to approach projects from a full-stack perspective.
 
-I excel at working in teams, quickly adapt to new environments, and master technologies to achieve desired outcomes. When you assign a task to me, you can rest assured that I will see it through to completion without requiring constant oversight. I guarantee that the work will be delivered on time, with optimal efficiency and the highest quality, no matter who it’s intended for or what goals it serves.</p>
+I enjoy sharing knowledge and best practices, which is why I actively maintain and develop a technical blog. It serves as a platform to document insights, explore new technologies, and contribute to the developer community.
+
+I thrive in team environments, adapt quickly to new settings, and am committed to mastering tools and technologies to achieve the best possible outcomes. When entrusted with a task, I take full ownership and ensure timely delivery with high efficiency and quality, regardless of the project’s scope or audience.</p>
 
 ## Top Skills
 
@@ -31,6 +33,8 @@ I excel at working in teams, quickly adapt to new environments, and master techn
 **Senior Backend Developer**
 
 **Dec 2023 - May 2025 (1 year 6 months)**
+
+*Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates - Remote*
 
 #### **Key Achievements**
 - Reduced deployment times by **34.5%** by extracting B2B logic into microservices using Golang, PostgreSQL, and Kafka.
@@ -67,6 +71,8 @@ I excel at working in teams, quickly adapt to new environments, and master techn
 **Senior Full Stack Developer**
 
 **Nov 2022 - Dec 2023 (1 year 2 months)**
+
+*Tbilisi, Georgia - Remote*
 
 #### **Key Achievements**  
 - Reduced document generation time by **25.5%**, improving operational efficiency.  
@@ -105,6 +111,8 @@ I excel at working in teams, quickly adapt to new environments, and master techn
 **Middle Full Stack Developer**
 
 **Oct 2020 - Nov 2022 (2 years 2 months)**
+
+*Tbilisi, Georgia - Remote*
 
 #### **Key Achievements**  
 - Developed an SDK for microcomponent management, enabling seamless integration into robotics projects.  
