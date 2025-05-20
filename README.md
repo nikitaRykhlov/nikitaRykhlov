@@ -32,7 +32,7 @@ I thrive in team environments, adapt quickly to new settings, and am committed t
 
 **Senior Backend Developer**
 
-**Dec 2023 - May 2025 (1 year 6 months)**
+**Dec 2023 - Present**
 
 *Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates - Remote*
 
