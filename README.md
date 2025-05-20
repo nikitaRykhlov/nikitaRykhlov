@@ -28,7 +28,7 @@ I thrive in team environments, adapt quickly to new settings, and am committed t
 
 ## Experience
 
-### <ins>[Kuper](https://kuper.ru/)</ins>
+### <ins>[Kuper](https://www.linkedin.com/company/kuper-ru/)</ins>
 
 **Senior Backend Developer**
 
@@ -66,7 +66,7 @@ I thrive in team environments, adapt quickly to new settings, and am committed t
 
 *Microservices, PostgreSQL, Kubernetes, S3, Redis, Kafka, Scalability, Software Architecture, gRPC, Domain-Driven Design(DDD), Golang, High Availability, Distributed Systems, Test-Driven Development, GitLab, Jira*
 
-### <ins>[ELMA365](https://elma365.com/)</ins>
+### <ins>[ELMA365](https://www.linkedin.com/company/elmabpm/)</ins>
 
 **Senior Full Stack Developer**
 
@@ -106,7 +106,7 @@ I thrive in team environments, adapt quickly to new settings, and am committed t
 
 *Golang, Kubernetes, Angular, Distributed Systems, High Availability, Scalability, Microservices, S3, Redis, Test-Driven Development, GitLab*
 
-### <ins>[Rainbowsoft](https://rainbowsoft.ru/)</ins>
+### <ins>[Rainbowsoft](https://www.linkedin.com/company/%D0%BD%D0%BF%D0%BE-rbs-rainbowsoft-/)</ins>
 
 **Middle Full Stack Developer**
 
@@ -179,3 +179,26 @@ Saratov State Technical University - Saratov, Russia
 **Modeling and Documentation:** UML, BPMN, C4
 
 **Other:** Figma
+
+## Honors & Awards
+
+**Sales Growth Excellence Award**
+  : **Mar 2024**
+
+*Issued by Kuper*
+
+<p class="pb">Achieved a 427% increase in B2B sales volume within six months by launching a scalable wholesale orders platform powered by Redis and S3. The platform's robust architecture and caching mechanisms enabled seamless handling of high transaction volumes.</p>
+
+**Code Quality Champion Award**
+  : **Oct 2023**
+
+*Issued by ELMA365*
+
+<p class="pb">Achieved 97% test coverage through rigorous Test-Driven Development (TDD) practices, minimizing runtime errors and enhancing system stability. Demonstrated expertise in unit, integration, and end-to-end testing to ensure maintainable and reliable code.</p>
+
+**Operational Efficiency Excellence Award**
+  : **Sep 2023**
+
+*Issued by ELMA365*
+
+<p class="pb">Recognized for reducing document generation time by 25.5% , significantly improving operational efficiency. Optimized backend workflows and implemented performance enhancements using Golang and microservices architecture.</p>
