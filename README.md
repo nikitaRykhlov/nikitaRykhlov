@@ -152,6 +152,35 @@ I thrive in team environments, adapt quickly to new settings, and am committed t
 
 Saratov State Technical University - Saratov, Russia
 
+## Licences & Certificates
+
+**<ins>[SQL and PostgreSQL: The Complete Developer's Guide](https://ude.my/UC-891c03c5-be4a-4d5e-931b-3a34e0c26bd5/)</ins>**
+  : **Issued Mar 2024**
+
+*Udemy*
+
+Gained comprehensive skills in working with relational databases through hands-on learning of SQL and PostgreSQL. Mastered essential database operations including data storage and retrieval, query optimization, and efficient database design. This course provided a solid foundation in SQL programming, performance tuning, and best practices for building robust data-driven applications.
+
+<p class="pb text-italic">SQL, PostgreSQL, Database Design, Software Development</p>
+
+**<ins>[Redis: The Complete Developer's Guide](https://ude.my/UC-54fb98de-5a87-494b-a812-814f59e286a5/)</ins>**
+  : **Issued Jan 2024**
+
+*Udemy*
+
+A comprehensive course covering Redis v7.0 from the ground up, with hands-on exercises and real-world use cases. Explored core and advanced topics including data structures, persistence, scripting with Lua, concurrency patterns, Redis Streams, and performance optimization. Gained practical experience working with Redis in modern application development.
+
+<p class="pb text-italic">Redis, Database Design</p>
+
+**<ins>[Go - The Complete Guide](https://ude.my/UC-cd6c145e-d53b-4fcc-a8b6-0339bd6cccf8/)</ins>**
+  : **Issued May 2023**
+
+*Udemy*
+
+A comprehensive course covering the Go (Golang) programming language from the ground up. Gained in-depth knowledge by building multiple hands-on projects, including a fully functional REST API. Covered core and advanced topics such as goroutines, channels, packages, testing, data marshaling, and best practices for developing high-performance, concurrent applications.
+
+<p class="pb text-italic">Golang, Software Development, Programming Languages</p>
+
 ## Skills
 
 **Languages:** English (Limited working proficiency), Russian (native)
