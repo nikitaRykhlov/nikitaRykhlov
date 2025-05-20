@@ -155,7 +155,8 @@ Saratov State Technical University - Saratov, Russia
 ## Licences & Certificates
 
 **<ins>[SQL and PostgreSQL: The Complete Developer's Guide](https://ude.my/UC-891c03c5-be4a-4d5e-931b-3a34e0c26bd5/)</ins>**
-  : **Issued Mar 2024**
+
+**Issued Mar 2024**
 
 *Udemy*
 
@@ -164,7 +165,8 @@ Gained comprehensive skills in working with relational databases through hands-o
 <p class="pb text-italic">SQL, PostgreSQL, Database Design, Software Development</p>
 
 **<ins>[Redis: The Complete Developer's Guide](https://ude.my/UC-54fb98de-5a87-494b-a812-814f59e286a5/)</ins>**
-  : **Issued Jan 2024**
+
+**Issued Jan 2024**
 
 *Udemy*
 
@@ -173,7 +175,8 @@ A comprehensive course covering Redis v7.0 from the ground up, with hands-on exe
 <p class="pb text-italic">Redis, Database Design</p>
 
 **<ins>[Go - The Complete Guide](https://ude.my/UC-cd6c145e-d53b-4fcc-a8b6-0339bd6cccf8/)</ins>**
-  : **Issued May 2023**
+
+**Issued May 2023**
 
 *Udemy*
 
