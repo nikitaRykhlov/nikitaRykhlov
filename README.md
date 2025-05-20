@@ -215,21 +215,24 @@ A comprehensive course covering the Go (Golang) programming language from the gr
 ## Honors & Awards
 
 **Sales Growth Excellence Award**
-  : **Mar 2024**
+
+**Mar 2024**
 
 *Issued by Kuper*
 
 <p class="pb">Achieved a 427% increase in B2B sales volume within six months by launching a scalable wholesale orders platform powered by Redis and S3. The platform's robust architecture and caching mechanisms enabled seamless handling of high transaction volumes.</p>
 
 **Code Quality Champion Award**
-  : **Oct 2023**
+
+**Oct 2023**
 
 *Issued by ELMA365*
 
 <p class="pb">Achieved 97% test coverage through rigorous Test-Driven Development (TDD) practices, minimizing runtime errors and enhancing system stability. Demonstrated expertise in unit, integration, and end-to-end testing to ensure maintainable and reliable code.</p>
 
 **Operational Efficiency Excellence Award**
-  : **Sep 2023**
+
+**Sep 2023**
 
 *Issued by ELMA365*
 
