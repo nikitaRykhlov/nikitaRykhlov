@@ -216,7 +216,7 @@ A comprehensive course covering the Go (Golang) programming language from the gr
 
 **Sales Growth Excellence Award**
 
-**Mar 2024**
+**Sep 2024**
 
 *Issued by Kuper*
 
