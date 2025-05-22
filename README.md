@@ -237,3 +237,15 @@ A comprehensive course covering the Go (Golang) programming language from the gr
 *Issued by ELMA365*
 
 <p class="pb">Recognized for reducing document generation time by 25.5% , significantly improving operational efficiency. Optimized backend workflows and implemented performance enhancements using Golang and microservices architecture.</p>
+
+## Presonal brand
+
+<p class="pb">I enjoy sharing knowledge and best practices, which is why I actively maintain and develop a technical blog. It serves as a platform to document insights, explore new technologies, and contribute to the developer community.</p>
+
+**[Website](https://nikita-rykhlov.tech/)**
+**[DevTo](https://dev.to/nikita_rykhlov)**
+**[Medium](https://medium.com/@nikita_rykhlov)**
+**[LinkedIn](https://www.linkedin.com/in/nikita-rykhlov/)**
+**[Facebook](https://www.facebook.com/groups/nikitarykhlov)**
+**[Telegram](https://t.me/nikitaRykhlovBlog)**
+**[X](https://x.com/NikitaRykhlov)**
