@@ -17,6 +17,7 @@ I thrive in team environments, adapt quickly to new settings, and am committed t
 ![](https://img.shields.io/badge/Redis-7d90b0?style=for-the-badge&logo=redis&logoColor=white&color=7d90b0&labelColor=555555)
 ![](https://img.shields.io/badge/S3-7d90b0?style=for-the-badge&logo=amazons3&logoColor=white&color=7d90b0&labelColor=555555)
 ![](https://img.shields.io/badge/Kubernetes-7d90b0?style=for-the-badge&logo=kubernetes&logoColor=white&color=7d90b0&labelColor=555555)
+![](https://img.shields.io/badge/ElasticSearch-7d90b0?style=for-the-badge&logo=elasticsearch&logoColor=white&color=7d90b0&labelColor=555555)
 
 ![](https://img.shields.io/badge/Software_Design-7d90b0?style=for-the-badge&logoColor=white&color=7d90b0&labelColor=555555)
 ![](https://img.shields.io/badge/Scalability-7d90b0?style=for-the-badge&logoColor=white&color=7d90b0&labelColor=555555)
@@ -28,11 +29,55 @@ I thrive in team environments, adapt quickly to new settings, and am committed t
 
 ## Experience
 
-### <ins>[Kuper](https://www.linkedin.com/company/kuper-ru/)</ins>
+### <ins>[Tabby](https://www.linkedin.com/company/tabbypay/)</ins> — Search & Recommendations
+
+**Tech Lead/Feature Lead, Senior Backend Developer**
+
+**Jul 2025 - Present**
+
+*Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates - Remote*
+
+#### **Key Achievements**
+- Increased advertising coverage across product screens from **24.3% to 88.1%** by building a universal blender that merges items/merchants from multiple sources (monetization, organic) into a single ranked feed.
+- Accelerated update delivery to users from **13-16 hours to 2 hours** (an **~87% reduction**) by decoupling pipeline stages and building a dedicated orchestrator.
+- Raised successful delivery-process runs from **73.12% to 95.6%** by adding dynamic validation rules and dry-run validation to the process.
+- Cut incident detection time from **30-60 minutes to 1–15 minutes** with a purpose-built process- and system-state monitoring tool.
+- Reduced new ML-experiment setup time by **~71%** by enabling dynamic loading of embeddings and CTR-model versions from GCS without code releases.
+- Lowered embedding update cost by **~63%** through incremental user-embedding refresh, replacing full reindexing.
+- Enabled product launch in a new country by migrating the ElasticSearch cluster to geo-sharding: implemented per-shard country-based data filtering, cutting average search latency by **~38%** and documents scanned per query by **~55%**, while maintaining **99.95%** cluster availability throughout the migration.
+
+#### **Responsibilities**
+- Acted as Feature/Tech Lead across multiple initiatives: owned solution architecture, feature delivery control, and hands-on development end to end.
+- Designed and built the search and recommendation engines, including merchant suggest improvements and result limiting.
+- Led the ElasticSearch cluster migration for a new-country market entry: requirements gathering, country-specific data filtering, functional and load testing, HA/failover validation, and recovery-scenario documentation.
+- Worked in tight coordination with the ML team on artifacts and data stored in GCS.
+- Handled on-call rotations, authored incident documentation and postmortems in English, and mentored colleagues (including writing performance reviews).
+
+#### **Technical Contributions**
+- Built a universal source blender with template-based source mixing, cross-window deduplication, and caching for faster responses.
+- Implemented dynamic, contract-based loading of embeddings for products, users, and merchants, plus incremental user-embedding updates.
+- Added loading and indexing of multiple CTR-model versions from GCS, enabling side-by-side comparison and switching within experiments without redeploys.
+- Delivered a centralized configuration system tunable per A/B experiment group for rapid hypothesis testing.
+- Rebuilt the category tree as a facet-based structure with counters and facet logic.
+- Diagnosed an ElasticSearch performance bottleneck in JSON deserialization within the ES client and evaluated a custom marshaller.
+- Developed a delivery orchestrator and a state-tracking tool for observability.
+- Adopted AI-assisted development tooling (Cursor, Claude Code, GitHub Spec Kit, OpenCode, MCP) to speed up prototyping, spec-driven workflows, and delivery.
+
+#### **Key Learnings**
+- Deepened expertise in large-scale search, ranking, and recommendation systems on ElasticSearch.
+- Strengthened collaboration patterns between backend and ML teams around shared GCS artifacts.
+- Learned to design for experimentation, decoupling configuration and ML artifacts from release cycles.
+- Reinforced the value of observability and validation in reducing operational risk.
+
+**Team Size:** 7 people  
+
+*Microservices, Golang, ElasticSearch, PostgreSQL, GCP, GCS, Pub/Sub, Redis, Kubernetes, Scalability, Software Architecture, gRPC, Domain-Driven Design(DDD), High Availability, Distributed Systems, Test-Driven Development, GitLab, Jira*
+
+### <ins>[Kuper](https://www.linkedin.com/company/kuper-ru/)</ins> — B2B, Growth & Engagement
 
 **Senior Backend Developer**
 
-**Dec 2023 - Present**
+**Dec 2023 - Jun 2025 (1 year 7 months)**
 
 *Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates - Remote*
 
@@ -66,7 +111,7 @@ I thrive in team environments, adapt quickly to new settings, and am committed t
 
 *Microservices, PostgreSQL, Kubernetes, S3, Redis, Kafka, Scalability, Software Architecture, gRPC, Domain-Driven Design(DDD), Golang, High Availability, Distributed Systems, Test-Driven Development, GitLab, Jira*
 
-### <ins>[ELMA365](https://www.linkedin.com/company/elmabpm/)</ins>
+### <ins>[ELMA365](https://www.linkedin.com/company/elmabpm/)</ins> — Document Management
 
 **Senior Full Stack Developer**
 
@@ -106,7 +151,7 @@ I thrive in team environments, adapt quickly to new settings, and am committed t
 
 *Golang, Kubernetes, Angular, Distributed Systems, High Availability, Scalability, Microservices, S3, Redis, Test-Driven Development, GitLab*
 
-### <ins>[Rainbowsoft](https://www.linkedin.com/company/%D0%BD%D0%BF%D0%BE-rbs-rainbowsoft-/)</ins>
+### <ins>[Rainbowsoft](https://www.linkedin.com/company/%D0%BD%D0%BF%D0%BE-rbs-rainbowsoft-/)</ins> — Research & Development
 
 **Middle Full Stack Developer**
 
@@ -192,7 +237,7 @@ A comprehensive course covering the Go (Golang) programming language from the gr
 
 **Frontend Development:** HTML, CSS, React, Angular.
 
-**Storages:** PostgreSQL, MySQL, Redis, S3.
+**Storages:** PostgreSQL, ElasticSearch, MySQL, Redis, S3.
 
 **Version Control Tools:** Git, GitLab.
 
@@ -204,13 +249,15 @@ A comprehensive course covering the Go (Golang) programming language from the gr
 
 **Development Practices:** Test-Driven Development (TDD).
 
+**AI-Assisted Development:** Cursor, Claude Code, GitHub Spec Kit, Claude Design, OpenCode, Model Context Protocol (MCP), Claude Skills.
+
 **CI/CD Tools:** GitLab CI/CD, Jenkins.
 
 **Project Management:** Jira.
 
 **Modeling and Documentation:** UML, BPMN, C4
 
-**Other:** Figma
+**Other:** Google Cloud Platform, Figma
 
 ## Honors & Awards
 
@@ -242,7 +289,7 @@ A comprehensive course covering the Go (Golang) programming language from the gr
 
 <p class="pb">I enjoy sharing knowledge and best practices, which is why I actively maintain and develop a technical blog. It serves as a platform to document insights, explore new technologies, and contribute to the developer community.</p>
 
-**[Website](https://nikita-rykhlov.tech/)**
+**[Website](https://rykhlov.tech/)**
 **[DevTo](https://dev.to/nikita_rykhlov)**
 **[Medium](https://medium.com/@nikita_rykhlov)**
 **[LinkedIn](https://www.linkedin.com/in/nikita-rykhlov/)**
