@@ -231,7 +231,7 @@ A comprehensive course covering the Go (Golang) programming language from the gr
 
 ## Skills
 
-**Languages:** English (Limited working proficiency), Russian (native)
+**Languages:** English (Professional working proficiency), Russian (native)
 
 **Programming Languages:** Golang, JavaScript, TypeScript, PHP.
 
