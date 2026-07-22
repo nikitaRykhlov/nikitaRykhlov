@@ -199,6 +199,16 @@ Saratov State Technical University - Saratov, Russia
 
 ## Licences & Certificates
 
+**<ins>[Web3 General Proficiency Certification](https://cert.chainstack.com/certificates/certificates.php?id=6A608CC76AD24)</ins>**
+
+**Issued Jul 2026**
+
+*Chainstack*
+
+Successfully completed the Web3 General Proficiency assessment, demonstrating practitioner-level knowledge of the Web3 industry and technology, along with proficiency in day-to-day Web3 operations. Evaluated through a carefully curated set of questions derived from Chainstack, a leader in Web3 infrastructure.
+
+<p class="pb text-italic">Web3, Blockchain, Infrastructure</p>
+
 **<ins>[SQL and PostgreSQL: The Complete Developer's Guide](https://ude.my/UC-891c03c5-be4a-4d5e-931b-3a34e0c26bd5/)</ins>**
 
 **Issued Mar 2024**
