@@ -2,11 +2,11 @@
 
 **AI-Native Software Engineer · Senior Backend Engineer · Tech Lead**
 
-Search, Recommendations & Personalization · E-commerce & B2B Commerce · Workflow Automation & Low-code Platforms
+Search, Recommendations & Personalization · E-commerce & B2B Commerce · Workflow Automation & Low-code Platforms · Platform Engineering & Infrastructure
 
 ## About
 
-Over 7 years of software development experience across search, recommendations and personalization, e-commerce and B2B commerce, and workflow automation and low-code platforms. My expertise lies in designing and maintaining high-load distributed systems, where performance, reliability and fault tolerance are essential under intense workloads. I emphasize architectures that are not only scalable and flexible but also easy to support and evolve over time. I take an AI-native approach to software development, guiding AI agents from design through implementation and validation while owning architecture, code quality, and production reliability.
+Over 7 years of software development experience across search, recommendations and personalization, e-commerce and B2B commerce, workflow automation and low-code platforms, as well as internal engineering platforms and infrastructure. My expertise lies in designing and maintaining high-load distributed systems, where performance, reliability and fault tolerance are essential under intense workloads. I emphasize architectures that are not only scalable and flexible but also easy to support and evolve over time. I take an AI-native approach to software development, guiding AI agents from design through implementation and validation while owning architecture, code quality, and production reliability.
 
 Throughout my career I’ve worked in large technology companies known for their rigorous standards, which helped me develop a strategic mindset and the ability to craft long-lasting, efficient solutions. In addition to back-end development, I have hands-on experience in front-end technologies, allowing me to approach projects from a full-stack perspective.
 
@@ -209,22 +209,35 @@ The rest of the skills can be found in [this section](#skills).
 
 *Golang, Node.js, REST API, gRPC, Jenkins, MySQL, UML, BPMN, WebSockets, React.js, Docker, PHP, Observability, Prometheus, Grafana, Graylog, Jaeger, Full Stack Development, Web Technologies*
 
-### Freelance
+### Multiple Companies or Clients
 
-**Software Developer**
+**Junior Full Stack Developer**
 
 **Oct 2019 — Sep 2020**
 
-*Remote*
+*Russia, Moscow · Remote*
 
-#### **Responsibilities**
+Developed two projects from scratch based on client specifications.
 
-- Developed Telegram bots for clients.
-- Built websites and landing pages for clients.
-- Wrote scripts to automate routine tasks.
-- Combined freelance work with studies, reinforcing theoretical knowledge through practical projects.
+#### Julia — Flower Shop Support Bot
 
-*C#, Python, Node.js, HTML, CSS, Bash*
+- Developed a Telegram bot for customer support requests.
+- Implemented functionality for store employees.
+- Handled project infrastructure.
+
+*Go, Telegram Bot API, Node.js*
+
+#### Minori — Food Delivery Web Application
+
+- Developed the customer-facing interface.
+- Implemented a separate interface for employees.
+- Implemented notifications.
+- Implemented catalog updates.
+- Automated report generation.
+- Developed internal automation scripts.
+- Handled project infrastructure.
+
+*C#, Python, HTML, CSS, Bash, Nginx*
 
 ## Education
 
@@ -276,7 +289,7 @@ Golang, Software Development, Programming Languages
 
 ## Skills
 
-**Domain Expertise:** Search, Recommendations & Personalization · E-commerce & B2B Commerce · Workflow Automation & Low-code Platforms
+**Areas of Expertise:** Search, Recommendations & Personalization · E-commerce & B2B Commerce · Workflow Automation & Low-code Platforms · Platform Engineering & Infrastructure
 
 **Languages:** English (Professional working proficiency), Russian (native)
 
